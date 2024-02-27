@@ -46,6 +46,14 @@ Before delving into the results for DJI, TSLA, and MSFT stocks, let's understand
 ### Results
 Now, let's dive into the results for DJI, TSLA, and MSFT stocks based on the MACD strategy:
 
+
+
+![Closing Price DJI](https://github.com/AbhinavSingh0601/Equity-Trading-Strategy/assets/161506146/a0b0772e-ba5a-49a9-8894-892ae618ccf8)
+![Portfolio Returns](https://github.com/AbhinavSingh0601/Equity-Trading-Strategy/assets/161506146/cf331e8e-70ba-4875-a071-42818ed970c2)
+![DJI Booksize](https://github.com/AbhinavSingh0601/Equity-Trading-Strategy/assets/161506146/84034792-6659-4738-99f9-a42e7176112c)
+![Daily Returns DJI](https://github.com/AbhinavSingh0601/Equity-Trading-Strategy/assets/161506146/35748fe1-14ff-4679-bd91-3bf34af261c0)
+
+
 #### Dow Jones Industrial Average (DJI):
 - Sharpe Ratio of Actual Returns: 0.0383
 - Sharpe Ratio of Daily Returns: 0.0344
@@ -60,6 +68,14 @@ Now, let's dive into the results for DJI, TSLA, and MSFT stocks based on the MAC
 - Largest Profit-Making Trade: 3.15%
 - Final Booksize: $11,387.25
 
+  
+![Daily Returns TSLA](https://github.com/AbhinavSingh0601/Equity-Trading-Strategy/assets/161506146/fb78fc7c-48b3-4f56-bd13-8579a2f9c40d)
+![Closing Price Tesla](https://github.com/AbhinavSingh0601/Equity-Trading-Strategy/assets/161506146/d3d620d8-a6a5-45cb-999e-12429ed07215)
+![BookSize TSLA](https://github.com/AbhinavSingh0601/Equity-Trading-Strategy/assets/161506146/e49c659c-63b6-4a74-922b-4b2ead15c33b)
+![Tesla Port Returns](https://github.com/AbhinavSingh0601/Equity-Trading-Strategy/assets/161506146/ce40c010-e300-4578-9592-af93402cc6f7)
+
+
+
 #### Tesla Inc. (TSLA):
 - Sharpe Ratio of Actual Returns: 0.1207
 - Sharpe Ratio of Daily Returns: 0.0628
@@ -73,6 +89,16 @@ Now, let's dive into the results for DJI, TSLA, and MSFT stocks based on the MAC
 - Largest Loss-Making Trade: -17.18%
 - Largest Profit-Making Trade: 21.06%
 - Final Booksize: $452,661.29
+
+
+
+![MSFT returns](https://github.com/AbhinavSingh0601/Equity-Trading-Strategy/assets/161506146/5c28b42f-62e0-4217-9091-e6f2a1a2ac6d)
+![MSFT Port Returns](https://github.com/AbhinavSingh0601/Equity-Trading-Strategy/assets/161506146/53fa5cfb-51aa-4cc1-a072-ad4fdc30c6fc)
+![MSFT CLOSE](https://github.com/AbhinavSingh0601/Equity-Trading-Strategy/assets/161506146/8e873a6d-169d-41c2-88e4-9999dc02b424)
+![MSFT Booksize](https://github.com/AbhinavSingh0601/Equity-Trading-Strategy/assets/161506146/cf61fb4b-af8e-47ae-b721-a883b2c94200)
+
+
+
 
 #### Microsoft Corporation (MSFT):
 - Sharpe Ratio of Actual Returns: 0.0802
